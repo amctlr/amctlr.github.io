@@ -6,16 +6,18 @@ description: What I've been up to
 
 # Education
 
-Text
+B.S. Chemical Engineering
+Brigham Young University
+Provo, UT
 
-## Work Experience
+# Work Experience
 
 More text
 
-### Certifications
+# Certifications
 
 Even more text
 
-#### Awards
+# Awards
 
 When will the text end?
