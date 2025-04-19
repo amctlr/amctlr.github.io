@@ -4,4 +4,18 @@ title: CV
 description: What I've been up to
 ---
 
-Put some CV stuff here
+# Education
+
+Text
+
+## Work Experience
+
+More text
+
+### Certifications
+
+Even more text
+
+#### Awards
+
+When will the text end?
