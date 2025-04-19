@@ -24,3 +24,5 @@ If you would like to contact me or learn more about what I've done, check out th
     https://github.com/amctlr
   </a>
 </div>
+
+Or... send me a message here:
