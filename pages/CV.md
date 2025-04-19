@@ -6,6 +6,8 @@ description: What I've been up to
 
 # Education
 
+**Ph.D. Chemical Engineering**, Univeristy of Utah. *Starting Soon*
+
 **B.S. Chemical Engineering**, Brigham Young University. 2025
 
 # Work Experience
