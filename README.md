@@ -6,4 +6,4 @@ I started by making the index.md file. Then, I went to https://github.com/pages-
 
 I made a folder called 'pages' and added a couple of different pages that I would want on my website, such as 'about', 'contact', etc. and added a .md file for each of them. Then, I went into the default.html file and added some buttons in the top banner to navigate the website.
 
-I made the little icon in the browser tab by generating an image at https://favicon.io/favicon-generator/ and placing the .ico file in the 'assets/images' folder
+I made the little icon in the browser tab by generating an image at https://favicon.io/favicon-generator/ and placing the files it gave me in the 'assets/favicon' folder. Then, I had to create a folder called '_includes' with a file called 'head-custom.html' and copy the 4 lines of code that the favicon website gave me.
