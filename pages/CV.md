@@ -6,8 +6,7 @@ description: What I've been up to
 
 # Education
 
-B.S. Chemical Engineering
-Brigham Young University
+**B.S. Chemical Engineering**, Brigham Young University\n
 Provo, UT
 
 # Work Experience
