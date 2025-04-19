@@ -27,3 +27,7 @@ description: What I've been up to
 # Awards
 
 **GPA Midstream Rocky Mountain Chapter Scholarship**. 2023 & 2024
+
+# Publications
+
+Coming soon 🤞🏼
