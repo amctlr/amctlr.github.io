@@ -21,6 +21,7 @@ description: What I've been up to
 # Certifications
 
 **FE: Chemical**, NCEES. 2025
+
 **Lean Six Sigma Brown Belt**, US Synthetic. 2024
 
 # Awards
