@@ -10,12 +10,19 @@ description: What I've been up to
 
 # Work Experience
 
-More text
+**Student Engineer**, US Synthetic. 2024-2025
+
+**Facilities Engineer Intern**, Patronus Energy. 2022-2024
+
+**Chemical Engineer Intern**, Big West Oil. 2023
+
+**Landman Intern**, Wasatch Energy Management. 2022-2023
 
 # Certifications
 
-**Fundamentals of Engineering Exam: Chemical**, NCEES. 2025
+**FE: Chemical**, NCEES. 2025
+**Lean Six Sigma Brown Belt**, US Synthetic. 2024
 
 # Awards
 
-When will the text end?
+**GPA Midstream Rocky Mountain Chapter Scholarship**. 2023 & 2024
