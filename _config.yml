@@ -1,5 +1,5 @@
 title: Alex Cutler's Website
 description: This is a website for Alex
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
