@@ -6,8 +6,7 @@ description: What I've been up to
 
 # Education
 
-**B.S. Chemical Engineering**, Brigham Young University\n
-Provo, UT
+**B.S. Chemical Engineering**, Brigham Young University. 2025
 
 # Work Experience
 
@@ -15,7 +14,7 @@ More text
 
 # Certifications
 
-Even more text
+**Fundamentals of Engineering Exam: Chemical**, NCEES. 2025
 
 # Awards
 
