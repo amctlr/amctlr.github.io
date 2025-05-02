@@ -18,9 +18,8 @@ description: What I've been up to
 
 **Chemical Engineer Intern**, Big West Oil. 2023
 
-**Landman Intern**, Wasatch Energy Management. 2022-2023
+**Landman Intern**, Wasatch Energy Management. 2022-2023<br><br>
 
-\n\n
 
 **Student Research Assistant,** BYU Memmott Neutronics Group. 2023-2024
 
