@@ -20,7 +20,7 @@ description: What I've been up to
 
 **Landman Intern**, Wasatch Energy Management. 2022-2023
 
-
+\n\n
 
 **Student Research Assistant,** BYU Memmott Neutronics Group. 2023-2024
 
