@@ -14,15 +14,17 @@ description: What I've been up to
 
 **Student Engineer**, US Synthetic. 2024-2025
 
-**Student Research Assistant,** BYU Memmott Neutronics Group. 2023-2024
-
-**Teaching Assistant,** BYU Chemical Engineering Department. 2023, 2024
-
 **Facilities Engineer Intern**, Patronus Energy. 2022-2024
 
 **Chemical Engineer Intern**, Big West Oil. 2023
 
 **Landman Intern**, Wasatch Energy Management. 2022-2023
+
+
+
+**Student Research Assistant,** BYU Memmott Neutronics Group. 2023-2024
+
+**Teaching Assistant,** BYU Chemical Engineering Department. 2023, 2024
 
 **Student Research Assistant,** BYU Memmott Molten Salt Laboratory. 2021-2022
 
