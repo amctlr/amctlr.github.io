@@ -12,6 +12,8 @@ description: What I've been up to
 
 # Work Experience
 
+#### Internships
+
 **Student Engineer**, US Synthetic. 2024-2025
 
 **Facilities Engineer Intern**, Patronus Energy. 2022-2024
@@ -20,6 +22,7 @@ description: What I've been up to
 
 **Landman Intern**, Wasatch Energy Management. 2022-2023<br><br>
 
+#### BYU
 
 **Student Research Assistant,** BYU Memmott Neutronics Group. 2023-2024
 
